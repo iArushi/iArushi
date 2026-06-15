@@ -9,7 +9,7 @@ Hi, I'm Arushi 👋
 - 🌱 Currently exploring: product strategy · consumer behaviour · AI product development · growth systems
 - 💡 I like sitting at the edge of things — where product meets brand, where data meets intuition, where engineering meets user psychology
 - 🤝 Open to collaborating on **early-stage products, research-heavy projects, and anything being built from scratch**
-- 📬 Reach me: arushi.srivatava@gmail.com · [LinkedIn](https://linkedin.com/in/arushi)
+
 
 <!---
 iArushi/iArushi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
